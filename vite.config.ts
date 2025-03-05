@@ -1,4 +1,4 @@
-// filepath: /c:/Users/User/Desktop/MyMental/project/vite.config.ts
+// filepath: /c:/Users/User/Desktop/MyMental/vite.config.ts
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
